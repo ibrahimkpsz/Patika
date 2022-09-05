@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    font-family: 'Poppins' , sans-serif;
+    background-color: rgb(238, 237, 227);
+}
+
+ol li {
+    list-style-position: inside;
+}
